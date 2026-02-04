@@ -1,0 +1,3 @@
+[submodule "claude-equity-research"]
+	path = claude-equity-research
+	url = https://github.com/quant-sentiment-ai/claude-equity-research.git
