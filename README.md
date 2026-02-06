@@ -20,13 +20,13 @@ my-skill/
 
 `SKILL.md` 需要包含 YAML frontmatter（例如 `name` 与 `description`）以便系统发现并自动触发。技能采用“渐进披露”机制：启动时仅加载元数据，需要时再读取说明与资源。
 
-## OpenAI Codex 技能要点
+## OpenAI Codex Skills
 
 - Codex 使用 `SKILL.md` + 目录结构描述技能，并支持显式调用（`/skills` 或 `$skill`）与隐式调用（自动触发）。
 - 技能可放在 `.agents/skills` 目录中，支持仓库内多层级与用户目录等位置。
 - Codex Skills 构建在开放的 Agent Skills 规范之上。
 
-## Anthropic Claude 技能要点
+## Anthropic Claude Skills
 
 - Claude Skills 是文件系统中的模块化能力，包含说明、元数据与可选脚本/模板。
 - Claude 可在相关任务中自动使用技能，Anthropic 提供了预置技能，也支持自定义技能在 claude.ai、Claude Code 与 API 中使用。

@@ -1,4 +1,0 @@
-interface:
-  display_name: "Investment Asset Analysis"
-  short_description: "Institutional research for stocks, ETFs, funds"
-  default_prompt: "Use $investment-asset-analysis to produce an institutional-grade report for a given ticker."
