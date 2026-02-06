@@ -1,0 +1,525 @@
+{
+  "ticker": "AAPL",
+  "company": "Apple Inc.",
+  "mode": "detailed",
+  "analysis_date": "2026-02-06",
+  "market": {
+    "current_price": 275.9,
+    "currency": "USD",
+    "price_date": "2026-02-05"
+  },
+  "thesis": "Apple remains a cash-generative platform company with resilient profitability and balance-sheet flexibility; however, current valuation embeds sustained AI-driven upgrade expectations and leaves limited margin for execution miss.",
+  "fundamental_summary": "Revenue 416161000000 USD, net margin 26.92%, ROE 151.91%, Current ratio 0.89, Debt/Equity 1.23.",
+  "ratio_results": {
+    "profitability": {
+      "roe": 1.5191298333175105,
+      "roa": 0.3117962593356549,
+      "gross_margin": 0.4690516410716045,
+      "operating_margin": 0.31970799762591884,
+      "net_margin": 0.2691506412181824
+    },
+    "liquidity": {
+      "current_ratio": 0.8932929222186667,
+      "quick_ratio": 0.858770399261008,
+      "cash_ratio": 0.21695214060169896
+    },
+    "leverage": {
+      "debt_to_equity": 1.229815686327696,
+      "interest_coverage": 33.82913806254767,
+      "debt_service_coverage": 8.171098691887245
+    },
+    "efficiency": {
+      "asset_turnover": 1.1584451663368045,
+      "inventory_turnover": 38.6428821266177,
+      "receivables_turnover": 10.46235261583327,
+      "days_sales_outstanding": 34.88699085209811
+    },
+    "valuation": {
+      "pe_ratio": 36.16218664404963,
+      "eps": 7.6295165089359545,
+      "pb_ratio": 54.935056568971824,
+      "book_value_per_share": 5.022293909056109,
+      "ps_ratio": 9.73307572309755,
+      "ev_to_ebitda": 28.36150085666123,
+      "peg_ratio": 1.8549298058808341
+    }
+  },
+  "ratio_interpretation": {
+    "current_analysis": {
+      "profitability": {
+        "roe": {
+          "value": 1.5191298333175105,
+          "rating": "Excellent",
+          "message": "Performance significantly exceeds industry standards",
+          "recommendation": "Outstanding performance - ensure sustainability of high returns",
+          "benchmark_comparison": {
+            "excellent": 0.25,
+            "good": 0.18,
+            "acceptable": 0.12,
+            "poor": 0.08
+          }
+        },
+        "roa": {
+          "value": 0.3117962593356549,
+          "rating": "N/A",
+          "message": "",
+          "recommendation": "Continue monitoring this metric",
+          "benchmark_comparison": {}
+        },
+        "gross_margin": {
+          "value": 0.4690516410716045,
+          "rating": "Acceptable",
+          "message": "Meets industry standards",
+          "recommendation": "Continue monitoring this metric",
+          "benchmark_comparison": {
+            "excellent": 0.7,
+            "good": 0.5,
+            "acceptable": 0.35,
+            "poor": 0.2
+          }
+        },
+        "operating_margin": {
+          "value": 0.31970799762591884,
+          "rating": "N/A",
+          "message": "",
+          "recommendation": "Continue monitoring this metric",
+          "benchmark_comparison": {}
+        },
+        "net_margin": {
+          "value": 0.2691506412181824,
+          "rating": "N/A",
+          "message": "",
+          "recommendation": "Continue monitoring this metric",
+          "benchmark_comparison": {}
+        }
+      },
+      "liquidity": {
+        "current_ratio": {
+          "value": 0.8932929222186667,
+          "rating": "Poor",
+          "message": "Below industry standards - attention needed",
+          "recommendation": "Consider improving working capital management, reducing short-term debt, or increasing liquid assets",
+          "benchmark_comparison": {
+            "excellent": 2.5,
+            "good": 1.8,
+            "acceptable": 1.2,
+            "poor": 1.0
+          }
+        },
+        "quick_ratio": {
+          "value": 0.858770399261008,
+          "rating": "N/A",
+          "message": "",
+          "recommendation": "Continue monitoring this metric",
+          "benchmark_comparison": {}
+        },
+        "cash_ratio": {
+          "value": 0.21695214060169896,
+          "rating": "N/A",
+          "message": "",
+          "recommendation": "Continue monitoring this metric",
+          "benchmark_comparison": {}
+        }
+      },
+      "leverage": {
+        "debt_to_equity": {
+          "value": 1.229815686327696,
+          "rating": "Poor",
+          "message": "High leverage - potential risk",
+          "recommendation": "High leverage increases financial risk - consider debt reduction strategies",
+          "benchmark_comparison": {
+            "excellent": 0.3,
+            "good": 0.5,
+            "acceptable": 1.0,
+            "poor": 2.0
+          }
+        },
+        "interest_coverage": {
+          "value": 33.82913806254767,
+          "rating": "N/A",
+          "message": "",
+          "recommendation": "Continue monitoring this metric",
+          "benchmark_comparison": {}
+        },
+        "debt_service_coverage": {
+          "value": 8.171098691887245,
+          "rating": "N/A",
+          "message": "",
+          "recommendation": "Continue monitoring this metric",
+          "benchmark_comparison": {}
+        }
+      },
+      "efficiency": {
+        "asset_turnover": {
+          "value": 1.1584451663368045,
+          "rating": "N/A",
+          "message": "",
+          "recommendation": "Continue monitoring this metric",
+          "benchmark_comparison": {}
+        },
+        "inventory_turnover": {
+          "value": 38.6428821266177,
+          "rating": "N/A",
+          "message": "",
+          "recommendation": "Continue monitoring this metric",
+          "benchmark_comparison": {}
+        },
+        "receivables_turnover": {
+          "value": 10.46235261583327,
+          "rating": "N/A",
+          "message": "",
+          "recommendation": "Continue monitoring this metric",
+          "benchmark_comparison": {}
+        },
+        "days_sales_outstanding": {
+          "value": 34.88699085209811,
+          "rating": "N/A",
+          "message": "",
+          "recommendation": "Continue monitoring this metric",
+          "benchmark_comparison": {}
+        }
+      },
+      "valuation": {
+        "pe_ratio": {
+          "value": 36.16218664404963,
+          "rating": "Expensive",
+          "message": "High valuation relative to industry",
+          "recommendation": "Consider valuation risk - ensure fundamentals support high multiple",
+          "benchmark_comparison": {
+            "undervalued": 15,
+            "fair": 25,
+            "growth": 35,
+            "expensive": 50
+          }
+        },
+        "eps": {
+          "value": 7.6295165089359545,
+          "rating": "N/A",
+          "message": "",
+          "recommendation": "Continue monitoring this metric",
+          "benchmark_comparison": {}
+        },
+        "pb_ratio": {
+          "value": 54.935056568971824,
+          "rating": "N/A",
+          "message": "",
+          "recommendation": "Continue monitoring this metric",
+          "benchmark_comparison": {}
+        },
+        "book_value_per_share": {
+          "value": 5.022293909056109,
+          "rating": "N/A",
+          "message": "",
+          "recommendation": "Continue monitoring this metric",
+          "benchmark_comparison": {}
+        },
+        "ps_ratio": {
+          "value": 9.73307572309755,
+          "rating": "N/A",
+          "message": "",
+          "recommendation": "Continue monitoring this metric",
+          "benchmark_comparison": {}
+        },
+        "ev_to_ebitda": {
+          "value": 28.36150085666123,
+          "rating": "N/A",
+          "message": "",
+          "recommendation": "Continue monitoring this metric",
+          "benchmark_comparison": {}
+        },
+        "peg_ratio": {
+          "value": 1.8549298058808341,
+          "rating": "N/A",
+          "message": "",
+          "recommendation": "Continue monitoring this metric",
+          "benchmark_comparison": {}
+        }
+      }
+    },
+    "trend_analysis": {},
+    "overall_health": {
+      "status": "Fair",
+      "message": "Mixed financial indicators - attention needed in several areas",
+      "score": "2.0/4.0"
+    },
+    "recommendations": [
+      "Priority: Address current ratio - Consider improving working capital management, reducing short-term debt, or increasing liquid assets",
+      "Priority: Address debt to equity - High leverage increases financial risk - consider debt reduction strategies"
+    ],
+    "report": "Financial Analysis Report - Technology Industry Context\n======================================================================\n\n\nPROFITABILITY ANALYSIS\n----------------------------------------\n\nRoe:\n  Value: 1.52\n  Rating: Excellent\n  Analysis: Performance significantly exceeds industry standards\n  Action: Outstanding performance - ensure sustainability of high returns\n\nRoa:\n  Value: 0.31\n  Rating: N/A\n  Analysis: \n  Action: Continue monitoring this metric\n\nGross Margin:\n  Value: 0.47\n  Rating: Acceptable\n  Analysis: Meets industry standards\n  Action: Continue monitoring this metric\n\nOperating Margin:\n  Value: 0.32\n  Rating: N/A\n  Analysis: \n  Action: Continue monitoring this metric\n\nNet Margin:\n  Value: 0.27\n  Rating: N/A\n  Analysis: \n  Action: Continue monitoring this metric\n\nLIQUIDITY ANALYSIS\n----------------------------------------\n\nCurrent Ratio:\n  Value: 0.89\n  Rating: Poor\n  Analysis: Below industry standards - attention needed\n  Action: Consider improving working capital management, reducing short-term debt, or increasing liquid assets\n\nQuick Ratio:\n  Value: 0.86\n  Rating: N/A\n  Analysis: \n  Action: Continue monitoring this metric\n\nCash Ratio:\n  Value: 0.22\n  Rating: N/A\n  Analysis: \n  Action: Continue monitoring this metric\n\nLEVERAGE ANALYSIS\n----------------------------------------\n\nDebt To Equity:\n  Value: 1.23\n  Rating: Poor\n  Analysis: High leverage - potential risk\n  Action: High leverage increases financial risk - consider debt reduction strategies\n\nInterest Coverage:\n  Value: 33.83\n  Rating: N/A\n  Analysis: \n  Action: Continue monitoring this metric\n\nDebt Service Coverage:\n  Value: 8.17\n  Rating: N/A\n  Analysis: \n  Action: Continue monitoring this metric\n\nEFFICIENCY ANALYSIS\n----------------------------------------\n\nAsset Turnover:\n  Value: 1.16\n  Rating: N/A\n  Analysis: \n  Action: Continue monitoring this metric\n\nInventory Turnover:\n  Value: 38.64\n  Rating: N/A\n  Analysis: \n  Action: Continue monitoring this metric\n\nReceivables Turnover:\n  Value: 10.46\n  Rating: N/A\n  Analysis: \n  Action: Continue monitoring this metric\n\nDays Sales Outstanding:\n  Value: 34.89\n  Rating: N/A\n  Analysis: \n  Action: Continue monitoring this metric\n\nVALUATION ANALYSIS\n----------------------------------------\n\nPe Ratio:\n  Value: 36.16\n  Rating: Expensive\n  Analysis: High valuation relative to industry\n  Action: Consider valuation risk - ensure fundamentals support high multiple\n\nEps:\n  Value: 7.63\n  Rating: N/A\n  Analysis: \n  Action: Continue monitoring this metric\n\nPb Ratio:\n  Value: 54.94\n  Rating: N/A\n  Analysis: \n  Action: Continue monitoring this metric\n\nBook Value Per Share:\n  Value: 5.02\n  Rating: N/A\n  Analysis: \n  Action: Continue monitoring this metric\n\nPs Ratio:\n  Value: 9.73\n  Rating: N/A\n  Analysis: \n  Action: Continue monitoring this metric\n\nEv To Ebitda:\n  Value: 28.36\n  Rating: N/A\n  Analysis: \n  Action: Continue monitoring this metric\n\nPeg Ratio:\n  Value: 1.85\n  Rating: N/A\n  Analysis: \n  Action: Continue monitoring this metric"
+  },
+  "trend_signals": {
+    "trend_status": "bullish",
+    "metrics": {
+      "current_price": 275.9,
+      "ma5": 270.272,
+      "ma10": 262.78,
+      "ma20": 259.1955,
+      "bias_ma5_pct": 2.0823,
+      "macd_line": 1.24105,
+      "macd_signal": -1.927815,
+      "rsi14": 62.2396,
+      "volume_ratio": 0.678
+    },
+    "recommendation": {
+      "decision_type": "buy",
+      "confidence": "high",
+      "score": 95,
+      "invalidation": "Break of key support and failure of base-case assumptions"
+    },
+    "action_checklist": [
+      "PASS: MA alignment bullish (ma5 270.27, ma10 262.78, ma20 259.20)",
+      "PASS: Bias vs MA5 <= 5% (actual 2.08%)",
+      "PASS: MACD line >= signal line",
+      "PASS: RSI below overbought zone (actual 62.24)",
+      "PASS: Avoid panic chasing (volume ratio 0.68)"
+    ]
+  },
+  "valuation": {
+    "bull": {
+      "target": 289.92,
+      "probability": 0.25
+    },
+    "base": {
+      "target": 251.77,
+      "probability": 0.5
+    },
+    "bear": {
+      "target": 198.37,
+      "probability": 0.25
+    }
+  },
+  "catalysts": {
+    "near_term": [
+      "Apple Inc. (AAPL) Stock Price, News, Quote & History - Yahoo Finance",
+      "Apple Stock Investors Just Got Fantastic News From Tim Cook",
+      "AAPL: Apple Inc - Stock Price, Quote and News - CNBC"
+    ],
+    "mid_term": [
+      "Apple Q1 FY26 Earnings Beat Estimates | AAPL Earnings Decoded",
+      "Apple (AAPL) earnings report Q4 2025",
+      "Apple Analyst Ratings and Price Targets | NASDAQ:AAPL - Benzinga",
+      "Apple (AAPL) Stock Forecast: Analyst Ratings, Predictions & Price ..."
+    ]
+  },
+  "risks": [
+    "AI/\u5e73\u53f0\u7ade\u4e89\u52a0\u5267\u5bfc\u81f4\u7ec8\u7aef\u9700\u6c42\u4e0e\u4f30\u503c\u6ea2\u4ef7\u56de\u843d\u3002",
+    "\u76d1\u7ba1\u4e0e\u8bc9\u8bbc\u98ce\u9669\uff08\u53cd\u5784\u65ad\u3001\u6295\u8d44\u8005\u8bc9\u8bbc\u4e0e\u5730\u533a\u76d1\u7ba1\u6469\u64e6\uff09\u3002",
+    "\u4f9b\u5e94\u94fe\u4e0e\u5173\u952e\u96f6\u90e8\u4ef6\u6210\u672c/\u4ea7\u80fd\u6ce2\u52a8\uff0c\u538b\u7f29\u5229\u6da6\u7387\u3002"
+  ],
+  "position_sizing": "High conviction <=5%; medium conviction 2%-3%; low conviction <=1%. Current setup suggests 2%-3% starter given valuation sensitivity.",
+  "intel": {
+    "provider": "tavily",
+    "mode": "detailed",
+    "key_configured": true,
+    "dimensions": {
+      "latest_news": {
+        "query": "Apple AAPL latest news material events",
+        "success": true,
+        "results": [
+          {
+            "title": "Apple Inc. (AAPL) Stock Price, News, Quote & History - Yahoo Finance",
+            "url": "https://finance.yahoo.com/quote/AAPL/",
+            "snippet": "Major stocks indices were a mixed bag on Thursday, as individual stocks drove investor attention based on earnings results. The earnings action is fast and furious, and mostly in control of the narrative. That said, President Trump reportedly will announce his choice to lead the Federal Reserve this morning, and that may well grab a headline or two.\n\n### Apple Earnings: Prolific Quarter Portends Terrific 2026 Growth [...] led by the Information Technology sector, will top returns from value, led by Energy, Real Estate, and Materials, due to favorable secular and demographic trends. Value has taken an early lead in 2026. [...] ### 1.49%\n\n### 18.69%\n\n### 101.75%\n\n### 214,870.24%\n\n## News headlines Apple has strengthened its market position with a 36% stock surge in six months, primarily driven by its integration of Google's Gemini AI. This resurgence contrasts sharply with declines faced by other tech giants in the AI sector, marking a significant shift in investor sentiment.\n\nApple has strengthened its market position with a 36% stock surge in six months, primarily driven by its integration of Google's Gemini AI. This resurgence contrasts sharply with declines faced by other tech giants in the AI sector, marking a significant shift in investor sentiment.\n\n## Apple Inc. Overview Consumer Electronics / Technology",
+            "published_date": null,
+            "source": "https://finance.yahoo.com/quote/AAPL/"
+          },
+          {
+            "title": "Apple Stock Investors Just Got Fantastic News From Tim Cook",
+            "url": "https://www.nasdaq.com/articles/apple-stock-investors-just-got-fantastic-news-tim-cook",
+            "snippet": "Despite some headwinds, Apple is a top stock to buy.\n\nApple (NASDAQ: AAPL) has had plenty of doubters, especially over the past few years. Some feared that President Donald Trump's tariffs would significantly harm the business, since the tech giant does most of its manufacturing abroad, especially in China. Others continue to worry that Apple's legal troubles will catch up to it.\n\nAnd still others think that since the iPhone no longer generates the excitement it once did, it can't drive strong sales growth anymore. However, Apple is proving that one of those fears is a bit overstated. Let's see what the company's CEO, Tim Cook, recently said. [...] AAPL Revenue (Quarterly YoY Growth) Chart\n\nAAPL Revenue (Quarterly YoY Growth) data by YCharts\n\nWhat drove Apple's strong performance? You guessed it, the company's largest segment by sales, the iPhone. Here's what Tim Cook said during Apple's earnings conference call: \"The demand for iPhone was simply staggering, with revenue growing 23% year over year and all-time records across every geographic segment.\" The iPhone 17, launched late last year, is doing much of the heavy lifting. Apple's ongoing cycle of renewals should maintain its momentum through this quarter at least, with the company predicting sales growth of 13% to 16% in the current quarter.\n\n## Why the stock is a buy [...] Where to invest $1,000 right now? Our analyst team just revealed what they believe are the 10 best stocks to buy right now, when you join Stock Advisor. See the stocks \u00bb\n\nPerson on the stock market floor raising both fists in the air.\n\nImage source: Getty Images.\n\n## Apple's strong quarterly results\n\nApple recently released financial results for the first quarter of its 2026 fiscal year, the three-month period ending Dec. 27. The company's sales jumped by 16% year over year to $143.8 billion. Note that Apple had predicted revenue growth of 10% to 12%, which would have been strong for the company. We need to go back several years to find top-line growth in the double digits for the tech leader.\n\nAAPL Revenue (Quarterly YoY Growth) Chart\n\nAAPL Revenue (Quarterly YoY Growth) Chart",
+            "published_date": null,
+            "source": "https://www.nasdaq.com/articles/apple-stock-investors-just-got-fantastic-news-tim-cook"
+          },
+          {
+            "title": "AAPL: Apple Inc - Stock Price, Quote and News - CNBC",
+            "url": "https://www.cnbc.com/quotes/AAPL",
+            "snippet": "CNBC\nJoin IC\nJoin Pro\nJoin IC\nJoin Pro\n\n# Apple Inc AAPL:NASDAQ\n\ndownload chart\nafter hours icon\nquote price arrow up\nquote price arrow down\nLoading...\n\n## Latest On Apple Inc\n\n## Key Stats\n\n## Latest On Apple Inc\n\n### KEY STATS\n\n### RATIOS/PROFITABILITY\n\n### EVENTS\n\n## Content From Our Affiliates\n\n### Related Video\n\n### Profile\n\nCNBC logo\n\n#### News Tips\n\nGot a confidential news tip? We want to hear from you.\n\n#### CNBC Newsletters\n\nSign up for free newsletters and get more CNBC delivered to your inbox\n\nGet this delivered to your inbox, and more info about our products and services.\n\n#### Advertise With Us\n\nCalifornia Consumer Privacy Act (CCPA) Opt-Out Icon\n\n\u00a9 2026 Versant Media, LLC. All Rights Reserved. A Versant Media Company. [...] Data is a real-time snapshot \\Data is delayed at least 15 minutes.\nGlobal Business and Financial News, Stock Quotes, and Market Data\nand Analysis.\n\nData also provided byReuters logo\n\nReuters logo",
+            "published_date": null,
+            "source": "https://www.cnbc.com/quotes/AAPL"
+          }
+        ]
+      },
+      "risk_check": {
+        "query": "Apple AAPL litigation regulation downgrade warning",
+        "success": true,
+        "results": [
+          {
+            "title": "Apple (AAPL) $490 Million Investor Settlement Over Tim Cook's ...",
+            "url": "https://11th.com/cases/apple-investor-settlement",
+            "snippet": "Allegations Include\n\n   Concealing iPhone demand weakness in China. \n   Downplaying U.S.-China trade war impacts. \n   Masking effect of battery replacement discounts. \n   Misleading about competition from Chinese smartphone makers. \n\nInvestor Update The $490M settlement closes litigation but underscores regulatory and reputational risks that persist even as Apple preps its biggest launch of the year.\n\nYou can check more information about it HERE.\n\nRead more\n\n08/27/2025\n\n#### $AAPL: Apple Weighs Mistral, Perplexity AI Bids \u2014 $490M Settlement Still Pressures Outlook [...] Allegations Include\n\n   Concealing declining iPhone demand in China. \n   Misrepresenting the impact of the U.S.-China trade war. \n   Downplaying the effect of battery replacement discounts. \n   Understating competition from lower-priced Chinese smartphones. \n\nInvestor Update\n\n   Settlement of $490M closes litigation without admission of wrongdoing. \n   Strategic caution on Starlink avoided reliance on Musk, but legal and reputational risks persist. \n\nYou can check more information about it HERE.\n\nRead more\n\n08/27/2025\n\n#### What Went Wrong With Apple\u2019s China Bet \u2014 and How Investors Could Still Win\n\nApple ($AAPL) has agreed to a settlement with investors who accused CEO Tim Cook and CFO Luca Maestri of misleading the market about iPhone demand and the company\u2019s performance in China. [...] Allegations Include\n\n   Misleading investors about iPhone demand in China. \n   Downplaying effects of U.S.-China trade war. \n   Concealing impact of battery replacement discounts. \n   Overstating resilience vs. cheaper Chinese rivals. \n\nInvestor Update The $490M settlement closes a long-standing investor lawsuit, yet it highlights regulatory risks that persist even as Apple gears up for a critical product launch cycle.\n\nYou can check more information about it HERE.\n\nRead more\n\nAAPL ProfileBy TradingView\n\nTrusted by industry leaders\n\nEndorsed by top professionals who trust our innovative solutions to drive impactful results.\n\nImage 1: Avatar Image\n\n#### Howard Lindzon\n\nFounder",
+            "published_date": null,
+            "source": "https://11th.com/cases/apple-investor-settlement"
+          },
+          {
+            "title": "In a Rare Downgrade, Apple's Earnings and High Valuation Are ...",
+            "url": "https://www.tradealgo.com/news/in-a-rare-downgrade-apples-earnings-and-high-valuation-are-questioned",
+            "snippet": "\u200d\n\nAt the same time, Apple is facing mounting regulatory and legal risks that could affect its business model. One notable concern is the potential loss of the $20 billion Apple receives annually from Google in exchange for making it the default search engine in Safari. If that deal is undone, Apple could take a major hit to its Services income.\n\n\u200d\n\nSo far this year, Apple\u2019s stock has fallen 19%. It slipped slightly in premarket trading after Needham\u2019s downgrade.\n\n\u200d\n\nDespite Martin\u2019s more cautious view, the broader analyst community remains largely optimistic about Apple\u2019s future. Of the 51 analysts tracked by LSEG who cover the stock, 34 maintain a \"buy\" or \"strong buy\" rating, while 12 rate it as a \"hold.\" Only a small minority are bearish.\n\n\u200d [...] \u200d\n\nAs a result, she warned that Apple\u2019s current premium valuation compared to its peers may not be justified and could come under pressure.\n\n\u200d\n\nAnother challenge Apple faces is competition from rivals with emerging long-term visions that threaten its ecosystem. Companies like Meta Platforms and Google are investing heavily in developing smart glasses as potential replacements for smartphones. Apple, by contrast, recently scrapped its own augmented reality glasses project, which could leave it trailing in the race for the next generation of consumer tech.\n\n\u200d [...] \u200d\n\nAmong Apple\u2019s current competitors, Martin sees Google as the most well-positioned to challenge the tech giant\u2019s dominance. Google's strength lies in its Android operating system, which already has a massive global user base. In addition, Google has made long-term investments\u2014over 25 years\u2014in building advanced AI systems. As generative AI continues to evolve, it poses a serious threat to Apple\u2019s ecosystem, which has been slower to integrate these capabilities.\n\n\u200d\n\nMartin also warned of increasing vulnerabilities in Apple\u2019s core revenue streams, particularly its iPhone and Services divisions. She pointed to weakening global smartphone demand, driven by lower consumer spending and the effects of trade tariffs.\n\n\u200d",
+            "published_date": null,
+            "source": "https://www.tradealgo.com/news/in-a-rare-downgrade-apples-earnings-and-high-valuation-are-questioned"
+          },
+          {
+            "title": "Apple Inc. Stock (AAPL) Opinions on AI Strategy and Downgrades",
+            "url": "https://www.quiverquant.com/news/Apple+Inc.+Stock+%28AAPL%29+Opinions+on+AI+Strategy+and+Downgrades",
+            "snippet": "SENATOR SHELLEY MOORE CAPITO has traded it 3 times. They made 0 purchases and 3 sales worth up to $80,000 on 12/16, 09/18, 07/18.\n REPRESENTATIVE DEBBIE DINGELL sold up to $100,000 on 11/24.\n REPRESENTATIVE GILBERT RAY CISNEROS, JR. has traded it 2 times. They made 2 purchases worth up to $30,000 on 11/18, 10/17 and 0 sales.\n REPRESENTATIVE CLEO FIELDS has traded it 8 times. They made 8 purchases worth up to $1,430,000 on 11/13, 10/30, 10/23, 09/10, 09/03, 08/14, 08/01, 07/29 and 0 sales.\n REPRESENTATIVE RICHARD MCCORMICK purchased up to $15,000 on 11/05.\n REPRESENTATIVE LISA C. MCCLAIN has traded it 6 times. They made 2 purchases worth up to $65,000 on 10/30, 09/11 and 4 sales worth up to $130,000 on 10/31, 10/30, 10/14, 07/22. [...] REPRESENTATIVE DAVID TAYLOR has traded it 2 times. They made 0 purchases and 2 sales worth up to $30,000 on 10/30.\n REPRESENTATIVE NANCY PELOSI sold up to $250,000 on 10/22.\n SENATOR TOMMY TUBERVILLE sold up to $50,000 on 10/07.\n REPRESENTATIVE VAL T. HOYLE sold up to $50,000 on 09/23.\n SENATOR ADAM B. SCHIFF sold up to $50,000 on 09/22.\n SENATOR SHELDON WHITEHOUSE sold up to $50,000 on 09/04.\n REPRESENTATIVE RITCHIE TORRES sold up to $15,000 on 07/11. [...] Here are some recent targets:\n\n Erik Woodring from Morgan Stanley set a target price of $315.0 on 12/17/2025\n Atif Malik from Citigroup set a target price of $330.0 on 12/09/2025\n Dan Ives from Wedbush set a target price of $350.0 on 12/08/2025\n Amit Daryanani from Evercore ISI Group set a target price of $325.0 on 12/08/2025\n Bhavtosh Vajpayee from CLSA set a target price of $330.0 on 12/05/2025\n Gary Mobley from Loop Capital set a target price of $325.0 on 12/02/2025\n Barton Crockett from Rosenblatt set a target price of $250.0 on 11/04/2025\n\nThis article is not financial advice. See Quiver Quantitative's disclaimers for more information. Note that there may be inaccuracies due to mistakes in ticker-mapping, and other anomalies.",
+            "published_date": null,
+            "source": "https://www.quiverquant.com/news/Apple+Inc.+Stock+%28AAPL%29+Opinions+on+AI+Strategy+and+Downgrades"
+          }
+        ]
+      },
+      "earnings": {
+        "query": "Apple AAPL earnings guidance revenue margin",
+        "success": true,
+        "results": [
+          {
+            "title": "Apple Q1 FY26 Earnings Beat Estimates | AAPL Earnings Decoded",
+            "url": "https://www.indmoney.com/blog/us-stocks/apple-q1-fy26-earnings-beats-estimates-aapl-earnings-decoded",
+            "snippet": "## Guidance and What Apple Expects Next\n\nApple guided for 13-16% revenue growth in the upcoming quarter, ahead of prior Wall Street expectations. Management also maintained confidence in iPhone demand momentum and Services growth, while flagging memory cost inflation as a margin variable to monitor.\n\nGross margins remained resilient this quarter at 48.2%, suggesting Apple\u2019s pricing power and scale are still cushioning near-term cost pressures, though analysts caution that margin sensitivity could rise if component inflation persists.\n\n## What Analysts Expect Going Forward With AAPL\n\nPost-earnings, many analysts remain constructive on Apple\u2019s medium-term outlook.\n\nKey expectations include: [...] That translates to a revenue beat of roughly $5+ billion and an EPS beat of around $0.16-$0.17, one of Apple\u2019s stronger quarterly surprises in recent years. Analysts also noted that this quarter represents Apple\u2019s largest year-over-year revenue jump in nearly four years.\n\n## The Growth Engines: iPhone 17, China Turnaround, and Services\n\nThe biggest growth engine this quarter was the iPhone 17.\n\niPhone revenue surged 23% YoY to $85.3 billion, with Apple recording its best-ever iPhone quarter. Demand was particularly strong in China, where revenue jumped 38% YoY to $25.53 billion, marking a sharp rebound after previous softness. Apple noted strong user switching from Android and record iPhone sales across multiple regions. [...] The standout here was the iPhone, which generated $85.3 billion in revenue which is its best quarter ever. This was supported by strong demand for the iPhone 17 lineup. Services also reached a record $30 billion, reinforcing Apple\u2019s growing recurring revenue base, while gross margins expanded to 48.2%, beating expectations despite rising component costs.\n\n## Did Apple Beat Analyst Expectations? By How Much?\n\nApple delivered a clear earnings beat on both the top line and bottom line.\n\n Revenue: $143.8B vs. Street estimates of ~$138.4B\n EPS: $2.84 vs. consensus estimates of ~$2.68-$2.67",
+            "published_date": null,
+            "source": "https://www.indmoney.com/blog/us-stocks/apple-q1-fy26-earnings-beats-estimates-aapl-earnings-decoded"
+          },
+          {
+            "title": "Apple (AAPL) earnings report Q4 2025",
+            "url": "https://www.cnbc.com/2025/10/30/apple-aapl-earnings-report-q4-2025.html",
+            "snippet": "Analysts polled by LSEG expect Apple to guide to $132.31 billion in December quarter sales and earnings of $2.53 per share. Apple's guide surpasses those expectations. With 11% growth over last year's December quarter, revenue for the upcoming period would be $137.97 billion.\n\nCook said that Apple was confident in its guidance because of the strong reception for the company's new iPhone 17 devices, released in September, which he said was \"off the chart.\"\n\n\"We look at the results to date, the reception of the consumer on the very strong iPhone lineup,\" Cook said. \"We're looking at traffic in our stores, which is up significantly year on year. We see enthusiasm around the world.\" [...] iPhone revenue: $49.03 billion vs. $50.19 billion estimated\n Mac revenue: $8.73 billion vs. $8.59 billion estimated\n iPad revenue: $6.95 billion vs. $6.98 billion estimated\n Other Products revenue: $9.01 billion vs. $8.49 billion estimated\n Services revenue: $28.75 billion vs. $28.17 billion estimated\n\nApple CEO Tim Cook told CNBC's Steve Kovach that revenue in the current quarter will increase by at least 10%.\n\n\"We expect total company revenue to grow by 10 to 12% year over year, we expect iPhone revenue to grow double digits, year over year, and we expect that that would make the December quarter the best ever in the history of the company,\" Cook said. [...] The company's services business, which includes online subscriptions such as iCloud,  Apple Music, as well as App Store fees, Google search licensing, payment fees, and AppleCare warranties for hardware, grew 15% to $24.97 billion in sales. The unit is Apple's fastest-growing and important for investors because it represents recurring revenue with a higher profit margin than hardware.\n\nCook said that most of the components in the Services business were seeing accelerating growth.\n\n\"It was a run of the table,\" Cook said. Apple CFO Kevan Parekh said on an earnings call with analysts that Apple expects similar Services growth in the current quarter.",
+            "published_date": null,
+            "source": "https://www.cnbc.com/2025/10/30/apple-aapl-earnings-report-q4-2025.html"
+          },
+          {
+            "title": "This Was the Most Important Part of Apple's Earnings Release, and ...",
+            "url": "https://finance.yahoo.com/news/most-important-part-apples-earnings-131800596.html",
+            "snippet": "Gross margin was 48.2% in the quarter, up a full percentage point from the previous year and above the high end of guidance. That's been highly affected by the growing services business, which had a 76.5% gross margin in the quarter. However, devices, specifically iPhones, make up the majority of the business, and they bring the margin lower. Apple is guiding for a gross margin of 48% to 49% in the second quarter.\n\nWhile management didn't provide full-year guidance, the implication was that there may be some near-term pressure. The strong report portends good things to come for Apple this year. For the long term, investors (and potential investors) should keep monitoring how supply constraints impact Apple's margins.\n\n## Should you buy stock in Apple right now?",
+            "published_date": null,
+            "source": "https://finance.yahoo.com/news/most-important-part-apples-earnings-131800596.html"
+          }
+        ]
+      },
+      "market_analysis": {
+        "query": "Apple AAPL analyst rating target price",
+        "success": true,
+        "results": [
+          {
+            "title": "Apple Analyst Ratings and Price Targets | NASDAQ:AAPL - Benzinga",
+            "url": "https://www.benzinga.com/quote/AAPL/analyst-ratings",
+            "snippet": "Buy\n\nHighest Price Target1\n\n$350.00\n\nLowest Price Target1\n\n$200.00\n\nConsensus Price Target1\n\n$299.72\n\n## Apple Analyst Ratings and Price Targets | NASDAQ:AAPL | Benzinga\n\nApple Inc has a consensus price target of $299.72 based on the ratings of 29 analysts. The high is $350 issued by Wedbush on January 30, 2026. The low is $200 issued by Phillip Securities on September 11, 2025. The 3 most-recent analyst ratings were released by Jefferies, Maxim Group, and JP Morgan on January 30, 2026, respectively. With an average price target of $303.85 between Jefferies, Maxim Group, and JP Morgan, there's an implied 17.29% upside for Apple Inc from these most-recent analyst ratings.\n\n### Analyst Trends and Forecast\n\n17\n\n3\n\n2\n\nOct 25\n\n1\n\nNov 25\n\n6\n\nDec 25\n\n10\n\n3\n\n1\n\nJan\n\nBuy\n\nHold\n\nSell\n\nStrong Sell [...] A\n\nAnalysts arrive at stock ratings after doing extensive research, which includes going through public financial statements, talking to executives and customers of Apple, and listening in to earnings conference calls. Most analysts do this every three months, so you should get 4 ratings per company per firm each year. The last rating for Apple was filed on January 30, 2026 so you should expect the next rating to be made available sometime around January 30, 2027.\n\nQ\n\n### Is the Analyst Rating Apple (AAPL) correct?\n\nA\n\nWhile ratings are subjective and will change, the latest Apple (AAPL) rating was a maintained with a price target of $276.47 to $286.54. The current price Apple (AAPL) is trading at is $259.07, which is out of the analyst\u2019s predicted range. [...] 6\n\nDec 25\n\n10\n\n3\n\n1\n\nJan\n\nBuy\n\nHold\n\nSell\n\nStrong Sell\n\n### Analyst Rating and Forecast\n\n3.9\n\nBuy\n\nStrong Buy\n\nBuy\n\nHold\n\nSell\n\nStrong Sell\n\n#### Analyst Firms Making Recommendations1\n\nJefferies\n\nMaxim Group\n\nJP Morgan\n\nTD Cowen\n\nBarclays\n\n1calculated from analyst ratings\n\n### Analyst Ratings for Apple\n\nLoading calendar...\n\n### FAQ\n\nQ\n\n### What is the target price for Apple (AAPL) stock?\n\nA\n\nThe latest price target for Apple (NASDAQ:AAPL) was reported by Jefferies on January 30, 2026. The analyst firm set a price target for $286.54 expecting AAPL to rise to within 12 months (a possible 10.61% upside). 100 analyst firms have reported ratings in the last year.\n\nQ\n\n### What is the most recent analyst rating for Apple (AAPL)?\n\nA",
+            "published_date": null,
+            "source": "https://www.benzinga.com/quote/AAPL/analyst-ratings"
+          },
+          {
+            "title": "Apple (AAPL) Stock Forecast: Analyst Ratings, Predictions & Price ...",
+            "url": "https://public.com/stocks/aapl/forecast-price-target",
+            "snippet": "According to 28 analysts, Apple (AAPL) has a Buy consensus rating as of Feb 4, 2026. This rating is provided by third-party analysts and is not investment advice from Public.com.\n\nWall Street analysts have set a price target of $287.95, reflecting a 0.00% increase from the current stock price.\n\nFinancial analysts have set a price target of $287.95, indicating a 0.00% increase from the current stock price, but ratings and forecasts are frequently updated based on market conditions, earnings reports, and industry trends. This prediction is provided by third-party analysts and is not investment advice from Public.com.\n\nApple(AAPL)\n\nVolume: 64.4M\n\n## Apple (AAPL) Analyst Forecast & Price Prediction",
+            "published_date": null,
+            "source": "https://public.com/stocks/aapl/forecast-price-target"
+          },
+          {
+            "title": "Apple Inc. (AAPL) Stock Price, News, Quote & History",
+            "url": "https://ca.finance.yahoo.com/quote/AAPL/",
+            "snippet": "Q3\n\nFY25\n\nQ4\n\nFY25\n\nQ1\n\nFY26\n\n0\n\n50B\n\n100B\n\nView More\n\n### Analyst Insights: AAPL\n\nView More \n\n### Analyst Price Targets\n\n205.00 Low\n\n292.46 Average\n\n275.91 Current\n\n350.00 High\n\n### Analyst Recommendations\n\n### Latest Rating\n\nDate 2026-01-30\n\nAnalyst Jefferies\n\nRating Action Maintains\n\nRating Hold\n\nPrice Action Raises\n\nPrice Target 276.47 -> 286.54\n\nView More\n\n### Statistics: AAPL\n\nView More \n\n### Valuation Measures\n\nAnnual\n\nAs of 2026-02-04\n\n Market Cap\n\n  4.06T\n Enterprise Value\n\n  4.08T\n Trailing P/E\n\n  35.00\n Forward P/E\n\n  33.33\n PEG Ratio (5yr expected)\n\n  2.57\n Price/Sales (ttm)\n\n  9.47\n Price/Book (mrq)\n\n  46.03\n Enterprise Value/Revenue\n\n  9.37\n Enterprise Value/EBITDA\n\n  26.70\n\n### Financial Highlights\n\n#### Profitability and Income Statement\n\n Profit Margin",
+            "published_date": null,
+            "source": "https://ca.finance.yahoo.com/quote/AAPL/"
+          }
+        ]
+      },
+      "industry": {
+        "query": "Apple industry competitors market share outlook",
+        "success": true,
+        "results": [
+          {
+            "title": "Smartphone Market Share - IDC",
+            "url": "https://www.idc.com/promo/smartphone-market-share/",
+            "snippet": "\u201cApple is set to have a record year in 2025 with shipments forecast to cross 247 million units, thanks to the phenomenal success of its latest iPhone 17 series,\u201d said Nabila Popal, senior research director with IDC\u2019s Worldwide Quarterly Mobile Phone Tracker. \u201cIn China, Apple\u2019s largest market, massive demand for iPhone 17 has significantly accelerated Apple\u2019s performance. It ranked first in October and November per IDC\u2019s China Monthly Sales data with more than 20% share, miles ahead of the competition, leading IDC to revise Apple\u2019s Q4 forecast in China from 9% to 17% YoY. This turns a previously projected 1% decline in China for 2025 into a positive 3% growth, that\u2019s a phenomenal turnaround. The success story is replicated across all regions, including the US and Western Europe that had [...] \u201cDespite economic uncertainty, the smartphone market showed resilience. Apple and Samsung posted strong results as their latest devices encouraged consumers to upgrade in the premium segment, while new, affordable AI-enabled smartphones also drove high upgrades in more affordable price categories\u201d, said Francisco Jeronimo, vice president, Client Devices, IDC. \u201cApple delivered its best results ever in a July quarter, while Samsung achieved its strongest July-quarter growth on record. Demand for Apple\u2019s new iPhone 17 lineup was robust, with pre-orders surpassing those of the previous generation. At the same time, Samsung\u2019s Galaxy Z Fold 7 and Galaxy Z Flip 7 outperformed all earlier foldable models, creating renewed momentum for the foldables segment.\u201d",
+            "published_date": null,
+            "source": "https://www.idc.com/promo/smartphone-market-share/"
+          },
+          {
+            "title": "Apple dominated 2025 smartphone market with 20% share",
+            "url": "https://appleinsider.com/articles/26/01/12/apple-dominated-2025-smartphone-market-with-a-20-share",
+            "snippet": "Second place in the list went to Samsung, which enjoyed a 5% year-on-year shipment increase, but saw its 18% share from 2024 grow to 19%. Xiaomi is in third with a 13% share, while Oppo and Vivo have 8% each.\n\nCounterpoint's report is generally in line with IDC's claims in December that the iPhone 17 fuelled a record year for Apple, complete with strong demand during the holidays and healthier demand in emerging markets.\n\n## Even more bountiful\n\nWhile the shipments are one indicator of success in the smartphone market, revenue is just as important. The report touches upon this, pointing to a general increase across the board. [...] On a per-manufacturer basis, Apple saw the biggest improvement, going from an 18% market share in 2024 to a 20% share in 2025. The change represents a 10% year-over-year increase in shipment growth, the highest among the top five brands.\n\nSenior analyst Varun Mishra attributes the rise to increased demand in emerging and mid-size markets, as well as an expanded presence. The iPhone 17 series is said to have secured significant traction in the fourth quarter, while the iPhone 16 range maintained exceptional performance in Japan, India, and Southeast Asia.\n\nThis was also further amplified by a COVID-era upgrade cycle reaching its inflection point, with millions of users due to replace their smartphones in the year. [...] The current expectation is for a general contraction of the smartphone market, down by an estimated 3% over 2025's figures.\n\nThe main reason for the change will be component-based, as a shortage of DRAM and NAND chips and a higher prioritization to supply AI data centers will cause problems for the market. Rising component costs are also prompting price hikes.\n\nEven so, Counterpoint believes Apple and Samsung will show resilience to the market pressures, through a combinaton of strong supply chains and a premium market positioning.\n\n## Apple's M5 MacBook Pro with 24GB RAM plunges to $1,499 ($300 off)\n\nGrab the lowest price ever on Apple's latest 14-inch MacBook Pro with the M5 chip and a bump up to 24GB of RAM \u2014 or select from a variety of 32GB models that are $300 off.",
+            "published_date": null,
+            "source": "https://appleinsider.com/articles/26/01/12/apple-dominated-2025-smartphone-market-with-a-20-share"
+          },
+          {
+            "title": "Apple leads global smartphone market with 20% share in 2025 ...",
+            "url": "https://finance.yahoo.com/news/apple-leads-global-smartphone-market-064420012.html",
+            "snippet": "Apple (AAPL) led the market with a 20% share, the largest among the top five brands, supported by solid demand in \u2060emerging and \u200cmid-sized markets and strong sales of the iPhone 17 series, said \u200dCounterpoint analyst Varun Mishra.\n\nNasdaqGS - Delayed Quote \u2022 USD \n\n# (AAPL)\n\n276.49  +7.01  (+2.60%)\n\nAt close: February 4 at 4:00:02 PM EST\n\nAdvanced Chart\n\nManufacturers pulled shipments forward early in the year to get ahead \u200bof tariffs, but the effect eased \u200cas 2025 progressed, leaving second-half volumes largely unaffected, the firm said.\n\nSamsung (005930.KS) ranked second with a 19% share on modest shipment growth, while Xiaomi (XIACY) placed third with \u2060a 13% share, backed \u200bby steady demand \u200bin emerging markets.",
+            "published_date": null,
+            "source": "https://finance.yahoo.com/news/apple-leads-global-smartphone-market-064420012.html"
+          }
+        ]
+      },
+      "options_flow": {
+        "query": "Apple AAPL options unusual activity implied volatility",
+        "success": true,
+        "results": [
+          {
+            "title": "AAPL Options Volatility & Greeks for Apple Stock",
+            "url": "https://www.barchart.com/stocks/quotes/AAPL/volatility-greeks",
+            "snippet": "+ Options Prices\n  + Volatility & Greeks\n  + Options Flow\n  + Options Time & Sales\n  + Unusual Options Activity\n  + Options Overview History\n  + Expected Move\n  + Put/Call Ratio\n  + Volatility Charts\n  + Gamma Exposure\n  + Max Pain & Vol Skew\n #### options strategies\n\n  + Long Call/Put\n  + Covered Call\n  + Naked Put\n  + Vertical Spreads\n  + Protection Strategies\n  + Straddles & Strangles\n  + Horizontal Spreads\n  + Butterfly Spreads\n  + Condor Strategies\n #### company\n\n  + News & Headlines\n  + Key Statistics\n  + SEC Filings\n  + Competitors\n  + Related ETFs\n  + Stock Comparison\n  + Insider Trades\n #### analysts\n\n  + Earnings Estimates\n  + Analyst Ratings\n #### financials\n\n  + Financial Summary\n  + Income Statement\n  + Balance Sheet\n  + Cash Flow\n\n# Apple Inc (AAPL)\n\nApple Inc (AAPL) [...] Indices\n  + Market Indices\n  + S&P Indices\n  + S&P Sectors\n  + Dow Jones Indices\n  + Nasdaq Indices\n  + Russell Indices\n  + Volatility Indices\n  + Commodities Indices\n  + US Sectors Indices\n  + World Indices\n\n  Trading Signals\n  + New Recommendations\n  + Top Stocks to Own\n  + Top Signal Strength\n  + Top Signal Direction\n  + Stock Signal Upgrades\n\n  Sectors\n  + Stock Market Sectors\n  + Major Markets Heat Map\n  + Industry Rankings\n  + Industry Heat Map\n  + Industry Performance\n  + Stocks by Grouping\n Options  Options\n\n  Market Pulse\n  + Options Market Overview\n  + Unusual Options Activity\n  + Options Flow\n  + Upcoming Earnings\n\n  Volatility\n  + IV Rank and IV Percentile\n  + Implied vs Realized Vol\n  + Highest Implied Volatility\n  + %Change in Volatility [...] Volume & Open Interest\n  + Most Active Options\n  + Unusual Options Volume\n  + Options Volume Leaders\n  + Highest Open Positions\n  + Change in Open Interest\n  + %Change in Open Interest\n\n  Data & Tools\n  + Options Time & Sales\n  + Options Price History\n  + Options Calculator\n  + Options Learning Center\n\n  Option Screeners\n  + Options Screener\n  + Long Call Screener\n  + Long Put Screener\n\n  Income Strategies\n  + Covered Call\n  + Naked Put\n\n  Vertical Spreads\n  + Bull Call Spread\n  + Bear Call Spread\n  + Bear Put Spread\n  + Bull Put Spread\n\n  Protection Strategies\n  + Married Put\n  + Protective Collar\n\n  Straddle and Strangle\n  + Long Straddle\n  + Short Straddle\n  + Long Strangle\n  + Short Strangle",
+            "published_date": null,
+            "source": "https://www.barchart.com/stocks/quotes/AAPL/volatility-greeks"
+          },
+          {
+            "title": "AAPL Unusual Options Activity for Apple Stock - Barchart.com",
+            "url": "https://www.barchart.com/stocks/quotes/AAPL/unusual-activity",
+            "snippet": "Indices\n  + Market Indices\n  + S&P Indices\n  + S&P Sectors\n  + Dow Jones Indices\n  + Nasdaq Indices\n  + Russell Indices\n  + Volatility Indices\n  + Commodities Indices\n  + US Sectors Indices\n  + World Indices\n\n  Trading Signals\n  + New Recommendations\n  + Top Stocks to Own\n  + Top Signal Strength\n  + Top Signal Direction\n  + Stock Signal Upgrades\n\n  Sectors\n  + Stock Market Sectors\n  + Major Markets Heat Map\n  + Industry Rankings\n  + Industry Heat Map\n  + Industry Performance\n  + Stocks by Grouping\n Options  Options\n\n  Market Pulse\n  + Options Market Overview\n  + Unusual Options Activity\n  + Options Flow\n  + Upcoming Earnings\n\n  Volatility\n  + IV Rank and IV Percentile\n  + Implied vs Realized Vol\n  + Highest Implied Volatility\n  + %Change in Volatility [...] + Options Prices\n  + Volatility & Greeks\n  + Options Flow\n  + Options Time & Sales\n  + Unusual Options Activity\n  + Options Overview History\n  + Expected Move\n  + Put/Call Ratio\n  + Volatility Charts\n  + Gamma Exposure\n  + Max Pain & Vol Skew\n #### options strategies\n\n  + Long Call/Put\n  + Covered Call\n  + Naked Put\n  + Vertical Spreads\n  + Protection Strategies\n  + Straddles & Strangles\n  + Horizontal Spreads\n  + Butterfly Spreads\n  + Condor Strategies\n #### company\n\n  + News & Headlines\n  + Key Statistics\n  + SEC Filings\n  + Competitors\n  + Related ETFs\n  + Stock Comparison\n  + Insider Trades\n #### analysts\n\n  + Earnings Estimates\n  + Analyst Ratings\n #### financials\n\n  + Financial Summary\n  + Income Statement\n  + Balance Sheet\n  + Cash Flow\n\n# Apple Inc (AAPL)\n\nApple Inc (AAPL) [...] # Apple Inc (AAPL)\n\nApple Inc (AAPL)\n\n    ()    [NASDAQ]\n\n x    x \n\n  by (Cboe BZX)\n\n    ()   [NASDAQ]\n\n  x     x \n\n    ()  \n\nUnusual Options Activity for \n\nNotes\n\nAlerts\n\nWatch\n\nHelp\n\nUnusual Options Activity identifies options contracts that are trading at a higher volume relative to the contract's open interest. Unusual Options can provide insight on what \"smart money\" is doing with large volume orders, signaling new positions and potentially a big move in the security. Bullish sentiment is highlighted in green and bearish sentiment is highlighted in red.\n\nGo To:\n\n# Unusual Options Activity for Apple Inc",
+            "published_date": null,
+            "source": "https://www.barchart.com/stocks/quotes/AAPL/unusual-activity"
+          },
+          {
+            "title": "Apple Inc. (AAPL) - Implied Volatility (Puts) (30-Day)",
+            "url": "https://www.alphaquery.com/stock/AAPL/volatility-option-statistics/30-day/iv-put",
+            "snippet": "Interested in downloading data? Check out our premium data products, EODmetrics and VolVue. Query and download extensive historical data in CSV, Excel, JSON, or XML format, via web user interface or API.\n\n# Apple Inc. (AAPL)\n\nLast Closing Price: 259.48 (2026-01-30)\n\n Profile & Key Metrics\n Price Chart\n Financials & Fundamentals\n Industry/Sector/Market Percentiles\n Earnings History\n Volatility & Option Statistics\n All Data Variables\n\n# Implied Volatility (Puts) (30-Day)\n\nImplied Volatility (Puts): The forecasted future volatility of the security over the selected time frame, derived from the pricing of the at-the-money put options with the relevant expiration date.\n\nApple Inc. (AAPL) had 30-Day Implied Volatility (Puts) of 0.2560 for 2026-01-30.",
+            "published_date": null,
+            "source": "https://www.alphaquery.com/stock/AAPL/volatility-option-statistics/30-day/iv-put"
+          }
+        ]
+      },
+      "insider_activity": {
+        "query": "Apple AAPL insider buying selling filing",
+        "success": true,
+        "results": [
+          {
+            "title": "Apple Inc (AAPL) Insider Trading Activity - GuruFocus",
+            "url": "https://www.gurufocus.com/stock/AAPL/insider",
+            "snippet": "| Ticker | Company | Transaction Date | Politician Name | Transaction Type | Amount | Asset Type | Party | Position | State | Filing Date |\n ---  ---  ---  ---  --- \n  | AAPL | Apple Inc | 2026-01-16 | David J. Taylor | purchase | $1,001 - $15,000 | Common Stock | Republican | representative | OH | 2026-02-02 |\n| AAPL | Apple Inc | 2026-01-16 | David J. Taylor | purchase | $1,001 - $15,000 | Common Stock | Republican | representative | OH | 2026-02-02 |\n| AAPL | Apple Inc | 2025-12-30 | Nancy Pelosi | sale\\_partial | $5,000,001 - $25,000,000 | Common Stock | Democrat | representative | CA | 2026-01-23 |\n| AAPL | Apple Inc | 2025-12-29 | Markwayne Mullin | purchase | $100,001 - $250,000 | Common Stock | Republican | senator | OK | 2026-01-16 | [...] | AAPL | Apple Inc |  | Lisa McClain | purchase | $1,001 - $15,000 | Common Stock | Republican | representative | MI |  |\n| AAPL | Apple Inc | 2025-08-08 | Adam Smith | sale\\_full | $1,001 - $15,000 | Common Stock | Democrat | representative |  | 2025-08-08 |\n| AAPL | Apple Inc |  | Cleo Fields | purchase | $15,001 - $50,000 | Common Stock | Democrat | representative | LA | 2025-09-03 |\n| AAPL | Apple Inc |  | Cleo Fields | purchase | $100,001 - $250,000 | Common Stock | Democrat | representative | LA |  |\n| AAPL | Apple Inc |  | Lisa McClain | sale\\_partial | $1,001 - $15,000 | Common Stock | Republican | representative | MI | 2025-08-13 |\n| AAPL | Apple Inc |  | Shelley Moore Capito | sale\\_partial | $1,001 - $15,000 | Common Stock | Republican | senator | WV |  | [...] | Ticker | Insider | Position | Date | Buy/Sell | Shares | Shares Owned | Trade Price($) | Trade Percentage(%) | Cost($1000) | Price change since trade(%) | Share ownership details | Filing Date |\n ---  ---  ---  ---  ---  --- \n  | AAPL | Chris Kondo | Principal Accounting Officer | 2025-11-07 | Sell | 3,752 | 15,098 | 271.230 | 24.850 | 1017.650 | -0.65 | 15,098 (Direct) | 2025-11-12 |\n| AAPL | Kevan Parekh | Senior Vice President, CFO | 2025-10-16 | Sell | 4,199 | 8,765 | 247.390 | 47.910 | 1038.790 | +8.93 | 8,765 (Direct) | 2025-10-17 |\n| AAPL | Katherine L. Adams | SVP, GC and Secretary | 2025-10-02 | Sell | 47,125 | 179,158 | 256.790 | 26.300 | 12101.200 | +4.94 | 179,158 (Direct) | 2025-10-03 |",
+            "published_date": null,
+            "source": "https://www.gurufocus.com/stock/AAPL/insider"
+          },
+          {
+            "title": "Apple (AAPL) Insider Trades - Executive Stock Transactions",
+            "url": "https://stockcircle.com/insider-trades/aapl",
+            "snippet": "All insider trades \n\n# Apple Insider Trades\n\n## AAPL\n\nTrack insider trading activity from Apple Inc. executives and directors, a multinational technology company headquartered in Cupertino, California, renowned for its consumer electronics, software, and services such as the iPhone, Mac, iPad, and Apple Watch. Key insiders include CEO Tim Cook and Chairman of the Board Arthur D. Levinson, among other senior vice presidents and directors. Historically, insider trading activity at Apple has generally shown a pattern of sales by executives and directors.\n\n#### Trades Last 12 Months\n\nAAPL Price\n\n#### All Insider Trades for Apple\n\nSort by:  Latest Trade   Biggest Holding\n\nHolding Value\n\nLast Transaction\n\nCurrent Price\n\nBorders Ben Principal Accounting Officer",
+            "published_date": null,
+            "source": "https://stockcircle.com/insider-trades/aapl"
+          },
+          {
+            "title": "Apple Insider Trading Activity | NASDAQ:AAPL - Benzinga",
+            "url": "https://www.benzinga.com/quote/AAPL/insider-trades",
+            "snippet": "| Apr 21, 2004 | Sina Tamaddon | SENIOR VICE PRESIDENT | 0.00 | $22.56 | -$7.49M | SELL-OPTIONS | 0.00% | 6.45K | Apr 19 | View |\n| Apr 21, 2004 | Nancy R Heinen | SENIOR VICE PRESIDENT | 0.00 | $21.35 | -$2.66M | SELL-OPTIONS | 0.00% | 1.31K | Apr 19 | View | [...] | Nov 03, 2011 | Arthur D Levinson | DIRECTOR | -15.00K | $396.97 | -$5.95M | SELL | -7.12% | 195.73K | Nov 01 | View |\n| Nov 03, 2011 | Jeffrey E Williams | SENIOR VICE PRESIDENT | 0.00 | $221.95 | -$1.23M | SELL-OPTIONS | 0.00% | 213.00 | Nov 01 - Nov 02 | View |\n| Oct 24, 2011 | Betsy Rafael | VP, CORPORATE CONTROLLER | -7.59K | $397.89 | -$3.02M | SELL | -99.32% | 52.00 | Oct 21 | View |\n| Oct 20, 2011 | Jeffrey E Williams | SENIOR VICE PRESIDENT | 0.00 | $412.06 | -$4.12M | SELL-OPTIONS | 0.00% | 213.00 | Oct 18 - Oct 19 | View |\n| Oct 18, 2011 | Jeffrey E Williams | SENIOR VICE PRESIDENT | 0.00 | $421.30 | -$3.16M | SELL-OPTIONS | 0.00% | 213.00 | Oct 15 - Oct 17 | View | [...] | Dec 03, 2007 | Millard S Drexler | DIRECTOR | -20.00K | $183.69 | -$3.67M | SELL | -50.00% | 20.00K | Nov 29 | View |\n| Oct 30, 2007 | Ronald B Johnson | SENIOR VICE PRESIDENT | 0.00 | $104.36 | -$112.90M | SELL-OPTIONS | 0.00% | 150.62K | Oct 26 | View |\n| Oct 26, 2007 | William V Campbell | DIRECTOR | 2.90K | $84.30 | $125.03K | BUY | \u221e | 2.90K | Feb 28 - Jul 12 | View |\n| Sep 18, 2007 | Anthony Fadell | SENIOR VICE PRESIDENT | 0.00 | $76.02 | -$1.60M | SELL-OPTIONS | 0.00% | 5.18K | Sep 14 | View |\n| Aug 17, 2007 | Anthony Fadell | SENIOR VICE PRESIDENT | 0.00 | $68.42 | -$1.30M | SELL-OPTIONS | 0.00% | 2.46K | Aug 15 | View |\n| Aug 01, 2007 | William V Campbell | DIRECTOR | 0.00 | $74.74 | -$137.98K | SELL-OPTIONS | 0.00% | 255.01K | Jul 30 | View |",
+            "published_date": null,
+            "source": "https://www.benzinga.com/quote/AAPL/insider-trades"
+          }
+        ]
+      }
+    }
+  },
+  "next_checkpoints": [
+    "Next quarterly earnings print and guidance revision.",
+    "Gross margin trend vs prior quarter and iPhone/Services mix.",
+    "RSI/MA structure after major macro or product-cycle headlines."
+  ],
+  "assumptions": {
+    "verified_sources": [
+      "SEC CompanyFacts: https://data.sec.gov/api/xbrl/companyfacts/CIK0000320193.json",
+      "Stooq EOD Prices: https://stooq.com/q/d/l/?s=aapl.us&i=d",
+      "https://finance.yahoo.com/quote/AAPL/",
+      "https://www.nasdaq.com/articles/apple-stock-investors-just-got-fantastic-news-tim-cook",
+      "https://www.indmoney.com/blog/us-stocks/apple-q1-fy26-earnings-beats-estimates-aapl-earnings-decoded"
+    ],
+    "unverified_assumptions": [
+      "Valuation scenario multiples (PE 26/33/38) are analyst assumptions, not consensus-implied."
+    ]
+  },
+  "disclaimer": "Educational/research only. Not financial advice."
+}

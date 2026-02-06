@@ -1,0 +1,204 @@
+{
+  "current_analysis": {
+    "profitability": {
+      "roe": {
+        "value": 1.5191298333175105,
+        "rating": "Excellent",
+        "message": "Performance significantly exceeds industry standards",
+        "recommendation": "Outstanding performance - ensure sustainability of high returns",
+        "benchmark_comparison": {
+          "excellent": 0.25,
+          "good": 0.18,
+          "acceptable": 0.12,
+          "poor": 0.08
+        }
+      },
+      "roa": {
+        "value": 0.3117962593356549,
+        "rating": "N/A",
+        "message": "",
+        "recommendation": "Continue monitoring this metric",
+        "benchmark_comparison": {}
+      },
+      "gross_margin": {
+        "value": 0.4690516410716045,
+        "rating": "Acceptable",
+        "message": "Meets industry standards",
+        "recommendation": "Continue monitoring this metric",
+        "benchmark_comparison": {
+          "excellent": 0.7,
+          "good": 0.5,
+          "acceptable": 0.35,
+          "poor": 0.2
+        }
+      },
+      "operating_margin": {
+        "value": 0.31970799762591884,
+        "rating": "N/A",
+        "message": "",
+        "recommendation": "Continue monitoring this metric",
+        "benchmark_comparison": {}
+      },
+      "net_margin": {
+        "value": 0.2691506412181824,
+        "rating": "N/A",
+        "message": "",
+        "recommendation": "Continue monitoring this metric",
+        "benchmark_comparison": {}
+      }
+    },
+    "liquidity": {
+      "current_ratio": {
+        "value": 0.8932929222186667,
+        "rating": "Poor",
+        "message": "Below industry standards - attention needed",
+        "recommendation": "Consider improving working capital management, reducing short-term debt, or increasing liquid assets",
+        "benchmark_comparison": {
+          "excellent": 2.5,
+          "good": 1.8,
+          "acceptable": 1.2,
+          "poor": 1.0
+        }
+      },
+      "quick_ratio": {
+        "value": 0.858770399261008,
+        "rating": "N/A",
+        "message": "",
+        "recommendation": "Continue monitoring this metric",
+        "benchmark_comparison": {}
+      },
+      "cash_ratio": {
+        "value": 0.21695214060169896,
+        "rating": "N/A",
+        "message": "",
+        "recommendation": "Continue monitoring this metric",
+        "benchmark_comparison": {}
+      }
+    },
+    "leverage": {
+      "debt_to_equity": {
+        "value": 1.229815686327696,
+        "rating": "Poor",
+        "message": "High leverage - potential risk",
+        "recommendation": "High leverage increases financial risk - consider debt reduction strategies",
+        "benchmark_comparison": {
+          "excellent": 0.3,
+          "good": 0.5,
+          "acceptable": 1.0,
+          "poor": 2.0
+        }
+      },
+      "interest_coverage": {
+        "value": 33.82913806254767,
+        "rating": "N/A",
+        "message": "",
+        "recommendation": "Continue monitoring this metric",
+        "benchmark_comparison": {}
+      },
+      "debt_service_coverage": {
+        "value": 8.171098691887245,
+        "rating": "N/A",
+        "message": "",
+        "recommendation": "Continue monitoring this metric",
+        "benchmark_comparison": {}
+      }
+    },
+    "efficiency": {
+      "asset_turnover": {
+        "value": 1.1584451663368045,
+        "rating": "N/A",
+        "message": "",
+        "recommendation": "Continue monitoring this metric",
+        "benchmark_comparison": {}
+      },
+      "inventory_turnover": {
+        "value": 38.6428821266177,
+        "rating": "N/A",
+        "message": "",
+        "recommendation": "Continue monitoring this metric",
+        "benchmark_comparison": {}
+      },
+      "receivables_turnover": {
+        "value": 10.46235261583327,
+        "rating": "N/A",
+        "message": "",
+        "recommendation": "Continue monitoring this metric",
+        "benchmark_comparison": {}
+      },
+      "days_sales_outstanding": {
+        "value": 34.88699085209811,
+        "rating": "N/A",
+        "message": "",
+        "recommendation": "Continue monitoring this metric",
+        "benchmark_comparison": {}
+      }
+    },
+    "valuation": {
+      "pe_ratio": {
+        "value": 36.16218664404963,
+        "rating": "Expensive",
+        "message": "High valuation relative to industry",
+        "recommendation": "Consider valuation risk - ensure fundamentals support high multiple",
+        "benchmark_comparison": {
+          "undervalued": 15,
+          "fair": 25,
+          "growth": 35,
+          "expensive": 50
+        }
+      },
+      "eps": {
+        "value": 7.6295165089359545,
+        "rating": "N/A",
+        "message": "",
+        "recommendation": "Continue monitoring this metric",
+        "benchmark_comparison": {}
+      },
+      "pb_ratio": {
+        "value": 54.935056568971824,
+        "rating": "N/A",
+        "message": "",
+        "recommendation": "Continue monitoring this metric",
+        "benchmark_comparison": {}
+      },
+      "book_value_per_share": {
+        "value": 5.022293909056109,
+        "rating": "N/A",
+        "message": "",
+        "recommendation": "Continue monitoring this metric",
+        "benchmark_comparison": {}
+      },
+      "ps_ratio": {
+        "value": 9.73307572309755,
+        "rating": "N/A",
+        "message": "",
+        "recommendation": "Continue monitoring this metric",
+        "benchmark_comparison": {}
+      },
+      "ev_to_ebitda": {
+        "value": 28.36150085666123,
+        "rating": "N/A",
+        "message": "",
+        "recommendation": "Continue monitoring this metric",
+        "benchmark_comparison": {}
+      },
+      "peg_ratio": {
+        "value": 1.8549298058808341,
+        "rating": "N/A",
+        "message": "",
+        "recommendation": "Continue monitoring this metric",
+        "benchmark_comparison": {}
+      }
+    }
+  },
+  "trend_analysis": {},
+  "overall_health": {
+    "status": "Fair",
+    "message": "Mixed financial indicators - attention needed in several areas",
+    "score": "2.0/4.0"
+  },
+  "recommendations": [
+    "Priority: Address current ratio - Consider improving working capital management, reducing short-term debt, or increasing liquid assets",
+    "Priority: Address debt to equity - High leverage increases financial risk - consider debt reduction strategies"
+  ],
+  "report": "Financial Analysis Report - Technology Industry Context\n======================================================================\n\n\nPROFITABILITY ANALYSIS\n----------------------------------------\n\nRoe:\n  Value: 1.52\n  Rating: Excellent\n  Analysis: Performance significantly exceeds industry standards\n  Action: Outstanding performance - ensure sustainability of high returns\n\nRoa:\n  Value: 0.31\n  Rating: N/A\n  Analysis: \n  Action: Continue monitoring this metric\n\nGross Margin:\n  Value: 0.47\n  Rating: Acceptable\n  Analysis: Meets industry standards\n  Action: Continue monitoring this metric\n\nOperating Margin:\n  Value: 0.32\n  Rating: N/A\n  Analysis: \n  Action: Continue monitoring this metric\n\nNet Margin:\n  Value: 0.27\n  Rating: N/A\n  Analysis: \n  Action: Continue monitoring this metric\n\nLIQUIDITY ANALYSIS\n----------------------------------------\n\nCurrent Ratio:\n  Value: 0.89\n  Rating: Poor\n  Analysis: Below industry standards - attention needed\n  Action: Consider improving working capital management, reducing short-term debt, or increasing liquid assets\n\nQuick Ratio:\n  Value: 0.86\n  Rating: N/A\n  Analysis: \n  Action: Continue monitoring this metric\n\nCash Ratio:\n  Value: 0.22\n  Rating: N/A\n  Analysis: \n  Action: Continue monitoring this metric\n\nLEVERAGE ANALYSIS\n----------------------------------------\n\nDebt To Equity:\n  Value: 1.23\n  Rating: Poor\n  Analysis: High leverage - potential risk\n  Action: High leverage increases financial risk - consider debt reduction strategies\n\nInterest Coverage:\n  Value: 33.83\n  Rating: N/A\n  Analysis: \n  Action: Continue monitoring this metric\n\nDebt Service Coverage:\n  Value: 8.17\n  Rating: N/A\n  Analysis: \n  Action: Continue monitoring this metric\n\nEFFICIENCY ANALYSIS\n----------------------------------------\n\nAsset Turnover:\n  Value: 1.16\n  Rating: N/A\n  Analysis: \n  Action: Continue monitoring this metric\n\nInventory Turnover:\n  Value: 38.64\n  Rating: N/A\n  Analysis: \n  Action: Continue monitoring this metric\n\nReceivables Turnover:\n  Value: 10.46\n  Rating: N/A\n  Analysis: \n  Action: Continue monitoring this metric\n\nDays Sales Outstanding:\n  Value: 34.89\n  Rating: N/A\n  Analysis: \n  Action: Continue monitoring this metric\n\nVALUATION ANALYSIS\n----------------------------------------\n\nPe Ratio:\n  Value: 36.16\n  Rating: Expensive\n  Analysis: High valuation relative to industry\n  Action: Consider valuation risk - ensure fundamentals support high multiple\n\nEps:\n  Value: 7.63\n  Rating: N/A\n  Analysis: \n  Action: Continue monitoring this metric\n\nPb Ratio:\n  Value: 54.94\n  Rating: N/A\n  Analysis: \n  Action: Continue monitoring this metric\n\nBook Value Per Share:\n  Value: 5.02\n  Rating: N/A\n  Analysis: \n  Action: Continue monitoring this metric\n\nPs Ratio:\n  Value: 9.73\n  Rating: N/A\n  Analysis: \n  Action: Continue monitoring this metric\n\nEv To Ebitda:\n  Value: 28.36\n  Rating: N/A\n  Analysis: \n  Action: Continue monitoring this metric\n\nPeg Ratio:\n  Value: 1.85\n  Rating: N/A\n  Analysis: \n  Action: Continue monitoring this metric"
+}

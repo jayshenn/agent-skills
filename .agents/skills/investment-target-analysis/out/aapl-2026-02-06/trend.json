@@ -1,0 +1,27 @@
+{
+  "trend_status": "bullish",
+  "metrics": {
+    "current_price": 275.9,
+    "ma5": 270.272,
+    "ma10": 262.78,
+    "ma20": 259.1955,
+    "bias_ma5_pct": 2.0823,
+    "macd_line": 1.24105,
+    "macd_signal": -1.927815,
+    "rsi14": 62.2396,
+    "volume_ratio": 0.678
+  },
+  "recommendation": {
+    "decision_type": "buy",
+    "confidence": "high",
+    "score": 95,
+    "invalidation": "Break of key support and failure of base-case assumptions"
+  },
+  "action_checklist": [
+    "PASS: MA alignment bullish (ma5 270.27, ma10 262.78, ma20 259.20)",
+    "PASS: Bias vs MA5 <= 5% (actual 2.08%)",
+    "PASS: MACD line >= signal line",
+    "PASS: RSI below overbought zone (actual 62.24)",
+    "PASS: Avoid panic chasing (volume ratio 0.68)"
+  ]
+}

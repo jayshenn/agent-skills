@@ -1,0 +1,32 @@
+{
+  "income_statement": {
+    "revenue": 416161000000.0,
+    "cost_of_goods_sold": 220960000000.0,
+    "operating_income": 133050000000.0,
+    "ebit": 133050000000.0,
+    "ebitda": 144748000000.0,
+    "interest_expense": 3933000000.0,
+    "net_income": 112010000000.0
+  },
+  "balance_sheet": {
+    "total_assets": 359241000000.0,
+    "current_assets": 147957000000.0,
+    "cash_and_equivalents": 35934000000.0,
+    "accounts_receivable": 39777000000.0,
+    "inventory": 5718000000.0,
+    "current_liabilities": 165631000000.0,
+    "total_debt": 90678000000.0,
+    "current_portion_long_term_debt": 12350000000.0,
+    "shareholders_equity": 73733000000.0
+  },
+  "cash_flow": {
+    "operating_cash_flow": 111482000000.0,
+    "investing_cash_flow": 15195000000.0,
+    "financing_cash_flow": -120686000000.0
+  },
+  "market_data": {
+    "share_price": 275.9,
+    "shares_outstanding": 14681140000.0,
+    "earnings_growth_rate": 0.19495177946573355
+  }
+}
